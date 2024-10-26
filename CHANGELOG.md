@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.6.2](https://github.com/walnuts1018/ghq/commits/v1.6.2) - 2024-10-26
+
 ## [v1.6.2](https://github.com/x-motemen/ghq/compare/v1.6.1...v1.6.2) - 2024-07-12
 - chore: Update "go build" lines by @Okabe-Junya in https://github.com/x-motemen/ghq/pull/391
 - feat(misc): support "ghq rm" completion by @Okabe-Junya in https://github.com/x-motemen/ghq/pull/390
